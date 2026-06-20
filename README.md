@@ -20,8 +20,8 @@ Technologies Used
 
 Files Included
 
-- index.html
-- style.css
+- html.html
+- css.css
 - Images
 - Screenshots
 
