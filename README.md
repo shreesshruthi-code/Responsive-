@@ -1,4 +1,4 @@
-Project Name
+Project Name: Responsive Landing Page 
 
 Intern ID:CITS2792
 
@@ -25,6 +25,3 @@ Files Included
 - Images
 - Screenshots
 
-Author
-
-Shruthi
